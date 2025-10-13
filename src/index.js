@@ -10,3 +10,9 @@ function add(a,b){
 function sub(a,b){
     return a-b;
 }
+
+
+//adding a new multiply function
+function multiply(a,b){
+    return a*b;
+};
